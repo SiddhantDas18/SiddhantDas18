@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SiddhantDas18
-- 👀 I’m interested in Quantum Physics
 - 🌱 I’m currently Studying B.TECH
 
 <!---
