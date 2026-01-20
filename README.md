@@ -1,3 +1,3 @@
-Hi, I am Siddhant Das.
-Full Stack Software Developer.
+- Hi, I am Siddhant Das.
+- Full Stack Software Developer.
 
